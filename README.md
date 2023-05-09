@@ -42,8 +42,9 @@ or
 ```
 py -3 gui_main.py
 ```
-
 This will launch the Tkinter application window.
+
+If you want to just use the text interface, you'll have to edit lines with in the code for your own use. It's not recommended except for very occasional use. To run it you would run the same commands as above, just without 'gui_' in the file name.
 
 ### Step 4: Using the Application
 
