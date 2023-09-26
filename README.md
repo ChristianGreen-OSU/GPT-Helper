@@ -11,6 +11,8 @@ The application imports a list of code file extensions from a `config.py` file, 
 
 ## Getting Started
 
+## 🏮‼️Update: All you need to do now is download the executable and run it!🏮‼️ (I hope)
+
 To get the Code File Combiner working on your machine, you will need to have Python installed. This application was developed using Python 3.9 but should work with Python 3.6 and newer. 
 
 You will also need the Tkinter library, which is included with standard Python distributions. If you're using a minimal Python installation, you may need to install Tkinter manually.
